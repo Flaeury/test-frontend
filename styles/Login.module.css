@@ -1,0 +1,19 @@
+.loginContainer {
+  background: url('https://source.unsplash.com/random?books') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginForm {
+  max-width: 300px;
+}
+
+.loginFormButton {
+  width: 100%;
+}
